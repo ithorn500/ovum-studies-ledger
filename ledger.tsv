@@ -32,3 +32,6 @@ seq	study	kind	sha256	salted	source	receipt	note
 29	v73	backfill-registration	36f9c8bec0ecef420deb0e21a622bd96c47161f08aabc2314d7530931813dab3	no	ovum@e94c3f14263d8ab4ffe4dad7fbbab09a0a906c1d	-	born in Ovum history; moved to the lab 2026-10-31
 30	v74	backfill-registration	11748fe148f391e65d7aca9a8ccdf1bb38f652871b3d7db24bf70a4011787d35	no	ovum@31b23f39fa74d772ccd04426778214eccca72152	-	born in Ovum history; moved to the lab 2026-10-31
 31	v1r	registration	042c3f358b7a5b0cb69bff4747aa92b37144cdbd543144d5a3be1466e554a53d	no	novum@2734373880b2997ef4133cdb3c59c809dd0428d9	-	reproduction of v1; not a new blind test
+32	v1r	results	d5ed8a227a2e534599ed8baa8764b1571940f8f99951c0403c854ae902f03292	no	novum@3a88029f894df2afefa061b533a98b7ff75d4987	RCP-COMPILER-3c5463ef1dd37076	R0; reproduction matches the record
+33	v1r	results	d5ed8a227a2e534599ed8baa8764b1571940f8f99951c0403c854ae902f03292	no	novum@3a88029f894df2afefa061b533a98b7ff75d4987	RCP-COMPILER-b8d04cbb60ead738	R1; reproduction matches the record
+34	v1r	results	d5ed8a227a2e534599ed8baa8764b1571940f8f99951c0403c854ae902f03292	no	novum@3a88029f894df2afefa061b533a98b7ff75d4987	RCP-COMPILER-40a61ff0e8f59845	R2; reproduction matches the record
