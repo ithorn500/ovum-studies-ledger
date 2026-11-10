@@ -1,3 +1,33 @@
 # Ovum studies ledger: append-only. Format and rules in README.md. Digests only; no study content.
 ovum.studies.ledger.v1
 seq	study	kind	sha256	salted	source	receipt	note
+1	v1	backfill-registration	d06a121b628ed3a4fac4378ee81639f57a8c6c3f0aed387bbea0cbdfbfab17c5	no	ovum@cca41c40f3bae37c2bc07f50f97899ef17ac0f7f	-	born in Ovum history; moved to the lab 2026-10-31
+2	v2	backfill-registration	94fde19c68ea0c0c62b22ef6691d2eea2fdae18f7b6baaaaee04d9ee198b590f	no	ovum@17879cf3500df7c32200e8ead2ae4a33cd6246e5	-	born in Ovum history; moved to the lab 2026-10-31
+3	v3	backfill-registration	d0c4e797ec7bd620b0ce80d2c0146e435bd471a9728b5ad68d1eb39e44afc270	no	ovum@d7a841513af95d13920f12e8d70d89063b0868ce	-	born in Ovum history; moved to the lab 2026-10-31
+4	v4	backfill-registration	13c26d8d8103cb37caef680c154318ab97b05096f5caaa0bf6b6f056719c5bfa	no	ovum@bf3a401fa7cf8a1900a591a9826378245790a32a	-	born in Ovum history; moved to the lab 2026-10-31
+5	v7	backfill-registration	243b787e69041c36ebc0e3834bb79a2019131a835a6597330c081312d18e5554	no	ovum@0a37e1c47a0eb499c792b6ac7d81b42d9640d5a8	-	born in Ovum history; moved to the lab 2026-10-31
+6	v8	backfill-registration	5ccf0b81af88354095efed1db1f8273f00a2a00a4b86c76d6f0c44745304066d	no	ovum@3dfaf71357eb39c0865e05362d8088b423c69d5b	-	born in Ovum history; moved to the lab 2026-10-31
+7	v10	backfill-registration	03de8ef6f98a517b1074991faee0d7ebcbf7597cf5714239b5f66d9ef033b2ab	no	ovum@2e5b5dd65986adff9467bc32ca57a222fab2e3ca	-	born in Ovum history; moved to the lab 2026-10-31
+8	v13	backfill-registration	819a2b9393cc399bfdd8c3b7fe9c91e165ac9e83a5333e349066d0db69b866d8	no	ovum@b559f50b7c8c6400d47766e39e98cbce86ab62df	-	born in Ovum history; moved to the lab 2026-10-31
+9	v15	backfill-registration	ff0ddd4fb3705b227c4b4393d38c9b84b5665299e8c63e86233931298be2fb7b	no	ovum@d39c30867358d9a5a57cabdc289803e0461a971c	-	born in Ovum history; moved to the lab 2026-10-31
+10	v16	backfill-registration	d20e230b64e2f5684be706676b227160c915fe54d0d04c8fe3dffdb53e92e01a	no	ovum@c292433244628dd89d5d87be7462fe08a61fd893	-	born in Ovum history; moved to the lab 2026-10-31
+11	v17	backfill-registration	e14d627acf81c47cc84f4807917172fdb579fa8d96ff4f5933c4c216860ae56c	no	ovum@21b832802b775313d1cc396dbc9fdb4ac248d234	-	born in Ovum history; moved to the lab 2026-10-31
+12	v18	backfill-registration	1858322433168cd3cd4ca0e977856437413f5e7905761466c6f209ed085fc459	no	ovum@75e2694388a4a45254b5109581c540864e90243e	-	born in Ovum history; moved to the lab 2026-10-31
+13	v19	backfill-registration	80f24a3548242affbf7ca79223bfec8985669d93ff4c8c6173bec3e004bb2390	no	ovum@9f3e6a0df08599e50c8468fbcd5803bba2dad63a	-	born in Ovum history; moved to the lab 2026-10-31
+14	v20	backfill-registration	642954fb39a3028efb9ed48af33fd610be14f67eb2b9e15d6123527d4048b835	no	ovum@11d1bd7380780ac9efd3b1d6e80aa509f119bc05	-	born in Ovum history; moved to the lab 2026-10-31
+15	v22	backfill-registration	3bddfba7ddb647c9c3c539e6e9304648fbc4fb4e110e8485b43b1cd6f3a169ca	no	ovum@3bbd8ef98c60dd76dc40464f1a4ca3770e011322	-	born in Ovum history; moved to the lab 2026-10-31
+16	v25	backfill-registration	def822dc2a87595c23735f802fca687efb27d3ccd02415235ee99bf159fd4775	no	ovum@3e091ac2553cc27686e1010319fa6c03afa83430	-	born in Ovum history; moved to the lab 2026-10-31
+17	v27	backfill-registration	b4fac953cf5677333e762799d4d54c0eb5cb7b6bbfdb6fa2fa20cafa8829169e	no	ovum@7444d17cd8d4819c615e0f82c9386297b0f333fa	-	born in Ovum history; moved to the lab 2026-10-31
+18	v25c	backfill-registration	3b5cee0f5a3daf8632e410fa0abc22f103b9045b68d7d5fdb2c5a583d88e8466	no	ovum@a2a6dfad150902480ea42152d0212da255d4789a	-	born in Ovum history; moved to the lab 2026-10-31
+19	v25d	backfill-registration	014499c65502ce3d4232364663e9fe5c084b94a979b91cd582d047e122fbf70c	no	ovum@a25e526eb6bebaa77d810fcccb2dec27502041e4	-	born in Ovum history; moved to the lab 2026-10-31
+20	v50	backfill-registration	450ce732d068a2ebe0edb9266770e2fdc924597e9148477894d3507edd4ac90c	no	ovum@da46d2e6f171de2472c8a11fde8a37b9ef183a25	-	born in Ovum history; moved to the lab 2026-10-31
+21	v57	backfill-registration	bf4923491490bb0939d1ff7940958a3b7d9f3c2601e76f6b8fc303c57f4fd365	no	ovum@aa1161983728a44265644a1d37e278609ed42094	-	born in Ovum history; moved to the lab 2026-10-31
+22	v58	backfill-registration	91fa488841b4b7bb0c0f936f2f38d53c2308ce45c4da3cc78f47b244ea224738	no	ovum@0ef10dac2f27a6b07b24b23a4d718096ac36876c	-	born in Ovum history; moved to the lab 2026-10-31
+23	v59	backfill-registration	e146b8b7b8a8a3418417163ce277674745c6df1bb780505c6cc609c5835313ac	no	ovum@d606de2153ed6d9628775ff6c1c69c777b5022f9	-	born in Ovum history; moved to the lab 2026-10-31
+24	v61	backfill-registration	3d5b7ae8c4b5b285091346d46bac96d6ebe04181954e3a481cf2c55da57c197c	no	ovum@6e7861e1ffd447ec742c62068f89afe7f015f235	-	born in Ovum history; moved to the lab 2026-10-31
+25	v62	backfill-registration	3a43db1a6f03ce767f2f5daaed663c6eb2081180248634d909915d63baead8dd	no	ovum@681fa3495f8e6653f3a75486e86e23c32ff00d6d	-	born in Ovum history; moved to the lab 2026-10-31
+26	v63	backfill-registration	90066d7e865aa5609cc30d5002ddbaa1fb0f7ab45c88bd8e0c822ef6a751a382	no	ovum@f45b6a7f1d015e4492ea060356cf4dbdf19c920d	-	born in Ovum history; moved to the lab 2026-10-31
+27	v67	backfill-registration	a546627f0e37f43e56deb073d6aabb5cd7cdd10949b76a819f2527030ad1fd71	no	ovum@557ac4db4d9ab79c7437bdd65d37d170853e791e	-	born in Ovum history; moved to the lab 2026-10-31
+28	v71	backfill-registration	c84b3505c5a8fce1119c74d6619e992a2457b3bfb6df0a223c24fdad004b572e	no	ovum@26278de86724c86efc80402fc088491abca218c5	-	born in Ovum history; moved to the lab 2026-10-31
+29	v73	backfill-registration	36f9c8bec0ecef420deb0e21a622bd96c47161f08aabc2314d7530931813dab3	no	ovum@e94c3f14263d8ab4ffe4dad7fbbab09a0a906c1d	-	born in Ovum history; moved to the lab 2026-10-31
+30	v74	backfill-registration	11748fe148f391e65d7aca9a8ccdf1bb38f652871b3d7db24bf70a4011787d35	no	ovum@31b23f39fa74d772ccd04426778214eccca72152	-	born in Ovum history; moved to the lab 2026-10-31

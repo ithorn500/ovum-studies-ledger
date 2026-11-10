@@ -1,5 +1,15 @@
 ovum-studies-ledger change log: why each change was made, newest first.
 
+2026-11-10  The 30 capability studies, backfilled
+  WHY: the 30 studies behind Ovum's capabilities were registered before this ledger existed, in Ovum's own history,
+  before they moved to the lab on 2026-10-31. Their records are entered now, marked backfill-registration, so a reader
+  can see that their proof of time rests on Ovum's history and not on this ledger.
+  - ledger.tsv, records 1 to 30, in order of birth: each is the SHA-256 of the pre-registration's bytes at its birth
+    commit on Ovum's main branch, and that commit.
+  - Checked before writing: all 30 birth commits equal those Ovum's own release checker (deploy/check-custody.sh) found
+    independently, each is an ancestor of Ovum's main branch as GitHub reported it (5f27b0ca), and each digest was
+    recomputed from the bytes. Custody-daemon snapshot commits, which are not on main, were excluded.
+
 2026-11-09  The ledger is made
   WHY: for studies, git history pushed to GitHub is the custody ledger (operator ruling, 2026-11-09). A separate public
   repository of digests makes that history public and protected, without revealing any study. The operator created the
