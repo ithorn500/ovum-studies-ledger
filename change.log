@@ -1,5 +1,11 @@
 ovum-studies-ledger change log: why each change was made, newest first.
 
+2026-11-10  v1r registered before it runs
+  WHY: the operator ruled on 2026-11-09 that v1 is rerun before Ovum 1.0, as a pre-registered reproduction of its
+  2026-10-05 runs. The reproduction is registered here before any run, so its own registration has the contract's form.
+  - ledger.tsv, record 31: the SHA-256 of v1r's pre-registration as committed in the lab's repository at 2734373880b2,
+    which is that repository's published main.
+
 2026-11-10  The 30 capability studies, backfilled
   WHY: the 30 studies behind Ovum's capabilities were registered before this ledger existed, in Ovum's own history,
   before they moved to the lab on 2026-10-31. Their records are entered now, marked backfill-registration, so a reader
