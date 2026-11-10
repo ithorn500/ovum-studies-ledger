@@ -1,0 +1,3 @@
+# Ovum studies ledger: append-only. Format and rules in README.md. Digests only; no study content.
+ovum.studies.ledger.v1
+seq	study	kind	sha256	salted	source	receipt	note

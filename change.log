@@ -1,0 +1,8 @@
+ovum-studies-ledger change log: why each change was made, newest first.
+
+2026-11-09  The ledger is made
+  WHY: for studies, git history pushed to GitHub is the custody ledger (operator ruling, 2026-11-09). A separate public
+  repository of digests makes that history public and protected, without revealing any study. The operator created the
+  repository, its deploy key and its main ruleset (no deletion, no force-push, no bypass).
+  - README.md: what the ledger proves and does not, the record format and the rules.
+  - ledger.tsv: the schema and the header, with no records yet. The 30 existing capability studies follow as backfill.
