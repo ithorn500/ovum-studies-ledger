@@ -1,5 +1,10 @@
 ovum-studies-ledger change log: why each change was made, newest first.
 
+2026-11-13  v1r's Amendment 1, before its run
+  WHY: a further run of v1r is registered before it runs, as every run is.
+  - ledger.tsv, record 42: amendment, the SHA-256 of v1r's pre-registration as committed with Amendment 1 in the lab's
+    repository at 053ca932f3d7.
+
 2026-11-13  v75's Amendment 6, before any key is read
   WHY: the amendment records where the grade's keys come from, and the strata, before the step it governs.
   - ledger.tsv, record 41: amendment, the SHA-256 of v75's pre-registration as committed with Amendment 6 in the lab's
