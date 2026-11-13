@@ -47,3 +47,4 @@ seq	study	kind	sha256	salted	source	receipt	note
 44	v1r	amendment	85d68493ee88c8286578c41cbf60b65d25345e7075af17fa50992769f65eb65a	no	novum@80121a689c1e6569865e0daff49c49041ce2066a	-	amendment 2, two further runs on the Windows route, before they run
 45	v1r	results	803e03a677dc710003c43237a2e4d2253e01de809f46a67f19fa2ec9c4459e06	no	novum@4fe5d86fe666cdcc68fef7d04f3d848b8da2a34b	RCP-COMPILER-1c4bf823c39b8979	R1-W; reproduction matches the record
 46	v1r	results	803e03a677dc710003c43237a2e4d2253e01de809f46a67f19fa2ec9c4459e06	no	novum@4fe5d86fe666cdcc68fef7d04f3d848b8da2a34b	RCP-COMPILER-7d8d34ba85632364	R2-W; reproduction matches the record
+47	v75	results	c0f99a8720f0a183907e9e97056cdc03e1cc112925479df12414a7d8affe4655	no	novum@14e21b029b32064333eb48831b46428e19d629fe	-	extension blind-pass hashes, before the key is read; ungraded; LAB run, no Central receipt
