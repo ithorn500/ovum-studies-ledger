@@ -1,5 +1,10 @@
 ovum-studies-ledger change log: why each change was made, newest first.
 
+2026-11-13  v75's Amendment 6, before any key is read
+  WHY: the amendment records where the grade's keys come from, and the strata, before the step it governs.
+  - ledger.tsv, record 41: amendment, the SHA-256 of v75's pre-registration as committed with Amendment 6 in the lab's
+    repository at 3596392d1e7b.
+
 2026-11-13  v75's registration backfilled, and its blind-pass hashes recorded before the key
   WHY: v75 was registered and amended in the lab's repository, whose history is pushed, but it had no record here. Its
   blind pass is complete, and its hashes must be public before any key is read. The operator ruled on 2026-11-13 that
