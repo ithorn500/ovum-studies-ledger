@@ -35,3 +35,9 @@ seq	study	kind	sha256	salted	source	receipt	note
 32	v1r	results	d5ed8a227a2e534599ed8baa8764b1571940f8f99951c0403c854ae902f03292	no	novum@3a88029f894df2afefa061b533a98b7ff75d4987	RCP-COMPILER-3c5463ef1dd37076	R0; reproduction matches the record
 33	v1r	results	d5ed8a227a2e534599ed8baa8764b1571940f8f99951c0403c854ae902f03292	no	novum@3a88029f894df2afefa061b533a98b7ff75d4987	RCP-COMPILER-b8d04cbb60ead738	R1; reproduction matches the record
 34	v1r	results	d5ed8a227a2e534599ed8baa8764b1571940f8f99951c0403c854ae902f03292	no	novum@3a88029f894df2afefa061b533a98b7ff75d4987	RCP-COMPILER-40a61ff0e8f59845	R2; reproduction matches the record
+35	v75	backfill-registration	222025f2abe40a398e4156a334cda512c55b394a25c0bc353f3fa14ba9505dba	no	novum@290097d9dc958248f646ac46c10cb82037fde132	-	born in the lab repository's first commit; its proof of time is that pushed history
+36	v75	backfill-amendment	87c39ece6695bc2042c71c581c7de595ebd618f95c2477562f7f94f52e82f065	no	novum@1df6b4352ac10b1261d217216185400cea044e9a	-	amendments 1 and 2, before any run
+37	v75	backfill-amendment	676fdd75c04542a4783ec867ab88a421fa9879972f767abb1b5576f5c30b1045	no	novum@63d4a8ecbfce97f0e4bb677f1a9fae86fe5e474e	-	amendment 3, before the blind pass
+38	v75	backfill-amendment	9e21b6ce2f8addb00d82ca9030808cfb2612a2f2387cc053c106cf6413996453	no	novum@b0ee4b413eee5ff2ca1f7c17a1e72fdc7ed55599	-	amendment 4, before the blind pass
+39	v75	backfill-amendment	0f6dc5dde0644156cf1c69c4cf7a1aab47a5771dbd9f157c5cdfd218d7d5bf3c	no	novum@a1787b733520eb77500c20e6a91745a6dbfd770d	-	amendment 5, before the blind pass resumed
+40	v75	results	23741efecc2707d74270c7af517c297d45dcaf663fe7a6b8b1ffe500936ca3bf	no	novum@53f07744a65a94a1024c4f500b7ede19c24d5d2e	-	blind-pass hashes, before the key is read; ungraded; LAB run, no Central receipt
