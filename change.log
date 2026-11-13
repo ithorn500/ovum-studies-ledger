@@ -1,5 +1,10 @@
 ovum-studies-ledger change log: why each change was made, newest first.
 
+2026-11-13  v1r's R0-W result
+  WHY: R0-W ran after its registration (record 42), and every figure it prints matches v1's record.
+  - ledger.tsv, record 43: results, the SHA-256 of v1r's pre-registration as committed with its results in the lab's
+    repository at c0fd3734a983, with its Central receipt.
+
 2026-11-13  v1r's Amendment 1, before its run
   WHY: a further run of v1r is registered before it runs, as every run is.
   - ledger.tsv, record 42: amendment, the SHA-256 of v1r's pre-registration as committed with Amendment 1 in the lab's
