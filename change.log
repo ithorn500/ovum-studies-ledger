@@ -1,5 +1,16 @@
 ovum-studies-ledger change log: why each change was made, newest first.
 
+2026-11-13  v75's registration backfilled, and its blind-pass hashes recorded before the key
+  WHY: v75 was registered and amended in the lab's repository, whose history is pushed, but it had no record here. Its
+  blind pass is complete, and its hashes must be public before any key is read. The operator ruled on 2026-11-13 that
+  the Ovum study system (lucid-juniper) owns v75.
+  - ledger.tsv, record 35: backfill-registration, the SHA-256 of v75's pre-registration as first committed in the lab's
+    repository (290097d9dc95). Its proof of time rests on that pushed history, not on this ledger.
+  - ledger.tsv, records 36 to 39: backfill-amendment, the pre-registration as committed with amendments 1 and 2
+    (1df6b4352ac1), 3 (63d4a8ecbfce), 4 (b0ee4b413eee) and 5 (a1787b733520), each before the blind pass it governs.
+  - ledger.tsv, record 40: results, the SHA-256 of the blind-pass hash list as committed at 53f07744a65a, before the
+    key is read. It is ungraded. It is a LAB run on dev2, so it has no Central receipt.
+
 2026-11-10  v1r's results
   WHY: v1r ran after its registration (record 31), on the Central Compiler, and every figure it prints matched v1's
   2026-10-05 record. Its results are entered so that a reader can check them against the registration.
