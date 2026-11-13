@@ -42,3 +42,4 @@ seq	study	kind	sha256	salted	source	receipt	note
 39	v75	backfill-amendment	0f6dc5dde0644156cf1c69c4cf7a1aab47a5771dbd9f157c5cdfd218d7d5bf3c	no	novum@a1787b733520eb77500c20e6a91745a6dbfd770d	-	amendment 5, before the blind pass resumed
 40	v75	results	23741efecc2707d74270c7af517c297d45dcaf663fe7a6b8b1ffe500936ca3bf	no	novum@53f07744a65a94a1024c4f500b7ede19c24d5d2e	-	blind-pass hashes, before the key is read; ungraded; LAB run, no Central receipt
 41	v75	amendment	b97067411039b22c191dbc982b380398e21593c195fabb24b4b3eb933a0e1ecb	no	novum@3596392d1e7b8a4d7d3ce4ae3f558a50b4c38773	-	amendment 6, the keys and strata, before any key is read
+42	v1r	amendment	c476de60d67376071f8d9e445b8d8dfcbc8c4517fd4fdb074321998880687bb0	no	novum@053ca932f3d7c3e6b229767d225733a017394cf6	-	amendment 1, a run on the Windows route, before it runs
